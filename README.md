@@ -26,8 +26,8 @@ The dataset covers 344 penguins from three species (Adelie, Chinstrap, Gentoo) w
 
 | File | Description |
 | --- | --- |
-| `Activity_Build_a_K-means_model_completed.ipynb` | Completed notebook with code, outputs and written answers |
-| `penguins.csv` | Penguin dataset used by the notebook |
+| `Activity_Build_a_K-means_model_completed.ipynb` | notebook  |
+| `penguins.csv` | Penguin dataset used by in the notebook |
 
 ## Run it
 
